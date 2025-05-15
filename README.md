@@ -36,8 +36,8 @@ I'm an experienced IT System Engineer with a passion for building scalable and r
 
 ### 📫 How to reach me:
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** karim.saad@outlook.com
+- **LinkedIn:** www.linkedin.com/in/karim-saad-79b67b37
 - **GitHub:** [Your GitHub Profile]
 
 Feel free to explore my repositories and connect with me!
